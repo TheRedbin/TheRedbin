@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Manrique</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Frameworks, HTML, CSS, Javascrip**
+- 🌱 I’m currently learning **Frameworks, HTML, CSS, Javascrip, Python**
 
 - 📫 How to reach me **maicolmanrique0@gmail.com**
 
